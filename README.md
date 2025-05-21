@@ -1,3 +1,6 @@
+[![Proof HTML](https://github.com/Mugsofcoffeedu/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Mugsofcoffeedu/demo-repository/actions/workflows/proof-html.yml)
+
+
 <header>
 
 <!--
